@@ -10,7 +10,7 @@ In a recent project, I needed to create an S3 bucket that was uniquely tied to a
 
 
 
-[﻿View on canvas](https://app.eraser.io/workspace/DLsJY92t08kmD8bAFMor?elements=CvIMzUZK30dUvVqsTCVEzA) 
+![Figure 1](/.eraser/DLsJY92t08kmD8bAFMor___z1DNR5UFWdQJnHypYOujTutstxo2___---figure---RSmtkkoqGRk5vMSlOssNj---id---58_M163kcM-8bBEcrjZFj.png "Figure 1")
 
  
 
