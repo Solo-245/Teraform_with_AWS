@@ -6,11 +6,13 @@ If you’ve spent any time with Infrastructure as Code, you’ve felt the frustr
 While many beginners jump straight to using the `depends_on` argument, there is a more elegant, "Terraform-native" way to handle this: **Implicit Dependencies.**
 
 ### The Challenge: Dynamic Resource Naming
-In a recent project, I needed to create an S3 bucket that was uniquely tied to a specific VPC. Instead of hardcoding a string, I used a reference:
+In a recent project, I needed to create an S3 bucket that was uniquely tied to a specific VPC. Instead of hardcoding a string, I used a reference
 
 
 
-[﻿Mastering the Terraform Dependency Graph: Implicit vs. Explicit Links: View on canvas](https://app.eraser.io/workspace/DLsJY92t08kmD8bAFMor?elements=mgmK6yq6u09saHE9FPrNpQ) 
+[﻿View on canvas](https://app.eraser.io/workspace/DLsJY92t08kmD8bAFMor?elements=CvIMzUZK30dUvVqsTCVEzA) 
+
+ 
 
 
 
